@@ -1,4 +1,4 @@
-module gojsondiff
+module github.com/yudai/gojsondiff
 
 go 1.17
 
@@ -8,7 +8,6 @@ require (
 	github.com/onsi/gomega v0.0.0-20150401040250-4dfabf7db2e4
 	github.com/sergi/go-diff v0.0.0-20170118131230-24e2351369ec
 	github.com/urfave/cli v1.19.2-0.20170215051705-2526b57c56f3
-	github.com/yudai/gojsondiff v1.0.0
 	github.com/yudai/golcs v0.0.0-20150405163532-d1c525dea8ce
 	github.com/yudai/pp v2.0.2-0.20150410014804-be8315415630+incompatible
 )
