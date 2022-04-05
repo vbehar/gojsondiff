@@ -47,11 +47,6 @@ github.com/sergi/go-diff/diffmatchpatch
 # github.com/urfave/cli v1.19.2-0.20170215051705-2526b57c56f3
 ## explicit
 github.com/urfave/cli
-# github.com/yudai/gojsondiff v1.0.0
-## explicit
-github.com/yudai/gojsondiff
-github.com/yudai/gojsondiff/formatter
-github.com/yudai/gojsondiff/tests
 # github.com/yudai/golcs v0.0.0-20150405163532-d1c525dea8ce
 ## explicit
 github.com/yudai/golcs
