@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"sort"
 
-	diff "github.com/yudai/gojsondiff"
+	diff "github.com/Kong/gojsondiff"
 )
 
 func NewAsciiFormatter(left interface{}, config AsciiFormatterConfig) *AsciiFormatter {

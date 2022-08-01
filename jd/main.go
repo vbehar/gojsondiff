@@ -8,8 +8,8 @@ import (
 
 	"github.com/urfave/cli"
 
-	diff "github.com/yudai/gojsondiff"
-	"github.com/yudai/gojsondiff/formatter"
+	diff "github.com/Kong/gojsondiff"
+	"github.com/Kong/gojsondiff/formatter"
 )
 
 func main() {
